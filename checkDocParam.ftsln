@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "DatasetCheck", "DatasetCheck\Test.tsp", "B069CCA1-B528-4540-900A-99A5E551CB20"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\kung\Documents\Unified Functional Testing\DatasetCheck\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "CUFCheck", "CUFCheck\Test.tsp", "1276654A-62DD-49FA-8BD1-2652D08FF769"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\kung\Documents\Unified Functional Testing\CUFCheck\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		B069CCA1-B528-4540-900A-99A5E551CB20.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B069CCA1-B528-4540-900A-99A5E551CB20.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B069CCA1-B528-4540-900A-99A5E551CB20.Release|Any CPU.Build.0 = Release|Any CPU
+		B069CCA1-B528-4540-900A-99A5E551CB20.Release|Any CPU.ActiveCfg = Release|Any CPU
+		1276654A-62DD-49FA-8BD1-2652D08FF769.Debug|Any CPU.Build.0 = Debug|Any CPU
+		1276654A-62DD-49FA-8BD1-2652D08FF769.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		1276654A-62DD-49FA-8BD1-2652D08FF769.Release|Any CPU.Build.0 = Release|Any CPU
+		1276654A-62DD-49FA-8BD1-2652D08FF769.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
