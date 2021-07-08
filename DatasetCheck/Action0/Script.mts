@@ -1,1 +1,1 @@
-﻿RunAction "CheckJUnitRunner", oneIteration, "title", "menu", "link"
+﻿RunAction "CheckJUnitRunner", oneIteration, Parameter("DSNAME"), Parameter("DS_menuLabel"), Parameter("DS_linkLabel")
